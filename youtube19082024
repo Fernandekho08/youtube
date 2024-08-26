@@ -7634,6 +7634,9 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 1 (SD)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | BRI LIGA 1", INDOSIAR 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 2 (SD)
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
