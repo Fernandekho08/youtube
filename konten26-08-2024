@@ -8475,6 +8475,11 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/w61GmZv/channel8.png" group-title="CHANNEL | SINGAPORE 🇸🇬", Channel 8 (Ner Server)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9I62dT89F3TaaClwyTzyYA", "kid":"JEj8VhsMQiCoHxAIlx0wiA" } ], "type":"temporary" } 
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
 #EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.ibb.co.com/sJwTtw0/u-channel.png" group-title="CHANNEL | SINGAPORE 🇸🇬",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
