@@ -8741,6 +8741,10 @@ https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | HBO GROUP" tvg-logo="https://i.ibb.co.com/vs0GK7F/images.png",HBO Extreme 
+http://168.181.122.234:8000/play/a02s/index.m3u8
+
+
 ========================================================================================================================================================================================================================================================
 
 
