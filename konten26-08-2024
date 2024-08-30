@@ -7545,12 +7545,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/spotv2.png" group-title="EVENT | 🏍️MOTO GP & F1🏎️",SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg" group-title="EVENT | 🏍️MOTO GP & F1🏎️",SPOTV 2 (Indihome)
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="EVENT | 🏍️MOTO GP & F1🏎️", SKY SPORT MotoGP Italy
 https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -8895,14 +8893,10 @@ http://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tlc.png", TLC
 
-#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/afn.png",AFN (New Server Calista IPTV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE", AFN (New Server Calista IPTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",The Food Network 
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
