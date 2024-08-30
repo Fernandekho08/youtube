@@ -7547,7 +7547,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg" group-title="EVENT | 🏍️MOTO GP & F1🏎️",SPOTV 2 (Indihome)
+#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/gJs8F5f/SPOTV2.png" group-title="EVENT | 🏍️MOTO GP & F1🏎️",SPOTV 2 (Indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="EVENT | 🏍️MOTO GP & F1🏎️", SKY SPORT MotoGP Italy
