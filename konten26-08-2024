@@ -8750,7 +8750,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png", HGTV 1
 https://raw.githubusercontent.com/eepunx/cancan/main/hgtv
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="LIFESTYLE",HGTV 2
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",HGTV 2
 https://github.com/openwindows037/sri-tv/raw/main/hgtv.m3u8
 
 =================================================== lifestyle ===============================================================
